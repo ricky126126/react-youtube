@@ -88,3 +88,30 @@ const a = 10
 
 
   only share data parent to child
+
+
+
+
+  uidesign panding
+
+
+  <!-- functions/:- -->
+
+
+  states:- 
+
+
+  usestate =>  ek chnage se doosri state mai jana
+
+  useefect => main fucntion ke saath agr maine side by side kush function ja kush api ja kush bhi chla ho toh
+
+
+  useref => agr muhje apni webiste mi se koi cheej chaiye ja reference chahaiye toh mai ueref use kruga
+
+  usecontent= > content api  
+
+
+  useReducer => 
+
+
+  usememo , usecallback  =>  optimization 

@@ -1,18 +1,14 @@
-import React from 'react'
-import Header from './components/Header/Header'
-import Button from './components/button/Button'
-
+import Input from './components/InputHanding/Input'
 
 
 const App = () => {
   return (
-   <>
-   
+<>
 
-   <Header/>
+<Input/>
 
-   <Button/>
-   </>
+
+</>
   )
 }
 
