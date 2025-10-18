@@ -1,0 +1,51 @@
+.card{
+    width: 400px;
+    height: 450px;
+    background-color:gray;
+    border-radius: 20px;
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+ padding:20px 120px;
+    gap: 20px;
+}
+
+
+.card img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin: 30px 80px;
+    border-radius: 20px;
+}
+
+
+.card h1{
+  width: 100%;
+    font-size: 32px;
+    margin:3px 10px;
+}
+
+
+.card p{
+    font-size: 22px;
+margin-left: 27px;
+}
+
+
+.card button{
+    padding: 12px;
+    display: block;
+    margin: 20px 130px;
+    font-size: 17px;
+    border: none;
+    border-radius: 12px;
+}
+
+
+
+button:active{
+  scale: 0.9;
+}
